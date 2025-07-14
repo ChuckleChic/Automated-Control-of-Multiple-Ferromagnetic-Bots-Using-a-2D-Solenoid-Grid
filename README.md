@@ -68,11 +68,6 @@ The final implementation demonstrated:
 
 ---
 
-## 📄 Report
-You can access the full detailed report [here](./cf018f92-ea13-4cec-b0b2-373ab884335a.pdf).
-
----
-
 ## 👤 Author
 **Priya Jha**  
 Research Intern  
